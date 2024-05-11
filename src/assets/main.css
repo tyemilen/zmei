@@ -1,0 +1,8 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+#app {
+	margin: 0 auto;
+	font-weight: normal;
+}
